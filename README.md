@@ -1,2 +1,2 @@
-# repository trial
+# Repository Trial
 ## Hacktoberfest 2021
